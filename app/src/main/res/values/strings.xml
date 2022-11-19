@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">e-vision</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="re_enter_password">Password</string>
+    <string name="reenter_password">Reenter Password</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

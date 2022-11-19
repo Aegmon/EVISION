@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924455125298",
+    "project_id": "e-vision-1ca3e",
+    "storage_bucket": "e-vision-1ca3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924455125298:android:2e2d477d6c49435642572b",
+        "android_client_info": {
+          "package_name": "com.example.e_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924455125298-q4g4u0v5j73t8uj5apj2f99jkuvr8583.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNtrBP5gWMP-ytcfasdVyYYNJETb0GwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924455125298-q4g4u0v5j73t8uj5apj2f99jkuvr8583.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
